@@ -27,7 +27,4 @@
     "mocha": "^2.1.0",
     "mockgoose": "^1.10.7"
   },
-  "dependencies": {
-    "mongoose": "^3.8.x"
-  }
 }
